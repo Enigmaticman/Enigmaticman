@@ -18,4 +18,9 @@
 
 ## Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=enigmaticman&theme=cobalt&show_icons=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Enigmaticman&theme=cobalt&show_icons=true)
+
+## Projects
+
+### Infinite Runner
+![](https://github.com/Enigmaticman/Enigmaticman/blob/main/Cool%20Stuff/Infinite-Runner-Gif.gif)
