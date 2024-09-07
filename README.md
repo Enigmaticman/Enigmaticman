@@ -16,3 +16,6 @@
 - Krita
 - Github Desktop
 
+## Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=enigmaticman&theme=cobalt&show_icons=true)
