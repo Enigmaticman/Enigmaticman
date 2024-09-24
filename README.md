@@ -4,6 +4,8 @@
 ## Programming Languages:
 
 - C#
+- C
+- HTML
 - Python
 - GDScript
 - GLSL
