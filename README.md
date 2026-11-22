@@ -1,28 +1,22 @@
-<h1 align="center">Hello 😁, I'm Enigma</h1>
-<h3 align="center">A friendly, physic and math loving, solo developer</h3>
+<h1>My Project Portfolio</h1>
+This repository displays the projects that I have been working on throughout my engineering degree.
 
-## Programming Languages:
+<h3>Softwares/Programming Languages In Use</h3>
 
-- C#
-- C
-- HTML
+- Altium
+- Labview
+- Matlab
+- C++
 - Python
-- GDScript
-- GLSL
+- Fusion360
+- Verilog
+- VHDL
+- Git
 
-## Tools
+<h3>Projects</h3>
 
-- Unity
-- Godot
-- Blender
-- Krita
-- Github Desktop
+- Automated Pot Filler
+- Digital Security Lock
+- Solar Powered LED Array
+- Platformer Game
 
-## Stats
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=Enigmaticman&theme=cobalt&show_icons=true)
-
-## Projects
-
-### Infinite Runner
-![](https://github.com/Enigmaticman/Enigmaticman/blob/main/Cool%20Stuff/Infinite-Runner-Gif.gif)
