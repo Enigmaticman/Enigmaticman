@@ -21,6 +21,6 @@ This repository displays the projects that I have been working on throughout my 
 | RISC-V Single Cycle Processor | Verilog | Created a soft-core processor on an FPGA that accepts binary inputs and performs calculations on them |
 | Digital Security Lock | VHDL |	A digital lock created with the use of an FPGA, opens when the correct sequence of codes is inputted |
 | Solar Powered LED Array | C++/ESP | Used an ESP to control a sequence of multiple LEDs to create a visual display on a set of LEDs|
-| Platformer Game | Godot | Worked with multiple team members to create a platforming game |
+| Platformer Game | Godot | Worked with multiple team members to create a platforming game, primarily contributed with programming |
 
 
